@@ -2,10 +2,7 @@
 - 👀 I’m interested in ...la programmation
 - 🌱 I’m currently learning ...de nouvelle chose
 - 💞️ I’m looking to collaborate on ...des projet avec d'autre personne et discuter de nos passion
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- me joindre sur ce ce numero sur watsapp: 778072570
 <!---
 meth2123/meth2123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
